@@ -11,9 +11,9 @@ title                    : "Yashashree Chandak"
 title_separator          : "-"
 name                     : &name "Yashashree Chandak"
 description              : &description "Final year CS undergrad"
-url                      : https://ychandak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Yashashree304.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ychandak.github.io"
+repository               : "Yashashree304.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
